@@ -12,4 +12,4 @@ https://ginger-freighter-144.notion.site/Exploring-Mental-Health-Challenges-of-J
 
 I conducted this project with 4 other women data analysts at the Data Science for All Bootcamp in the summer of 2023. 
 The goal of this project is to provide advanced coffee information for coffee lovers through visualization.
-Please find our data-folio [here](Datafolio-Team 21.pdf).
+Please find our data-folio [here](<Datafolio-Team 21.pdf>).
